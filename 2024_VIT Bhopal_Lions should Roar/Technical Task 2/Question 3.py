@@ -1,4 +1,4 @@
-"""Problem statement:-
+"""Problem statement:
 Given an array, Arr[] of size T, contains binary digits where 
 0 represents a biker running to the north.
 1 represents a biker running to the south.
@@ -55,7 +55,7 @@ Output 2
 1
 
 Code:-"""
-"""Solution"""
+"""Solution:-"""
 array_size = int(input())
 array = []
 for i in range(array_size):
