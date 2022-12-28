@@ -23,7 +23,7 @@ Input 2
 Output 2
 100 is not a perfect number
 Code:-"""
-"""Soultion 1"""
+"""Soultion 1:-"""
 def is_perfect(n):
     divisor_sum = 0
     for i in range(1, n):
@@ -38,7 +38,7 @@ def is_perfect(n):
 number = int(input())
 print(is_perfect(number))
 
-"""Solution 2"""
+"""Solution 2:-"""
 def perfect_number(n):
     sum = 0
     for x in range(1, n):
