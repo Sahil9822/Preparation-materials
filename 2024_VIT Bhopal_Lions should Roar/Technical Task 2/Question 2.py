@@ -1,4 +1,4 @@
-"""Problem statement
+"""Problem statement:
 The numerological reduction of a number is the sum of digits calculated recursively until the resulting value is a single digit.
 You are given a function,
 int FindNumerologicalReduction(int n);
