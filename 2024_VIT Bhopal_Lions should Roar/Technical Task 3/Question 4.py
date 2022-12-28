@@ -1,4 +1,5 @@
-"""Write a recursive function to calculate the power of a given number X raised to power y. (for example X y ). Accept X and y as inputs.
+"""Problem statement:
+Write a recursive function to calculate the power of a given number X raised to power y. (for example X y ). Accept X and y as inputs.
 
 Input format
 The input consists of the values of x and y.
@@ -27,7 +28,7 @@ x = int(input())
 y = int(input())
 print(x**y)
 
-"""Solution 2 :-"""
+"""Solution 2:-"""
 def power(x, y):
 
 	if (y == 0): return 1
