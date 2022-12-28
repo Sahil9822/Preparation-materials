@@ -1,4 +1,5 @@
-/*A private bank has a problem with its credit card processing system. As a result, the majority of customers have contacted the bank about the payment problem. Now the bank has to check whether the credit number is valid or not before proceeding with the further clearance process. Write a program to obtain a credit card number and check its validity. Card numbers should start with 4 for Visa cards, 5 for Master cards, 37 for American Express cards, and 6 for Discover cards.
+/*Problem statement:
+A private bank has a problem with its credit card processing system. As a result, the majority of customers have contacted the bank about the payment problem. Now the bank has to check whether the credit number is valid or not before proceeding with the further clearance process. Write a program to obtain a credit card number and check its validity. Card numbers should start with 4 for Visa cards, 5 for Master cards, 37 for American Express cards, and 6 for Discover cards.
 
 Conditions for a card to be valid:
 Consider the card number: 4388576018402626
