@@ -22,8 +22,8 @@ orange-mango-apple-water melon-grapes
 Output 2
 apple-grapes-mango-orange-water melon"""
 
-"""Code:-
-Solution 1:-"""
+"""Code:-"""
+"""Solution 1:-"""
 input_string = input()
 words = input_string.split("-")
 words.sort()
