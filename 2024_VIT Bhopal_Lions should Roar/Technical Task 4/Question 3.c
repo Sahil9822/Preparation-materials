@@ -1,4 +1,4 @@
-/*
+/*Problem statement:
 Mike had been provided with T integers and an integer S by his professor; he needs to identify the probability of getting a set of three integers the same as S from the T integers.
 Mike is poor at interpreting floating-point numbers. Guide him to identify the probability based on a fraction, cut down to its lowest terms.
 
