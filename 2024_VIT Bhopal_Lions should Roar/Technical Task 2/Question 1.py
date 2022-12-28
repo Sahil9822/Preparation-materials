@@ -23,6 +23,7 @@ Input 2
 
 Output 2
 100 is not a perfect number
+
 Code:-"""
 """Soultion 1:-"""
 def is_perfect(n):
