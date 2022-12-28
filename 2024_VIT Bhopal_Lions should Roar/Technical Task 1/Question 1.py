@@ -36,7 +36,7 @@ Output 2
 The entered array is not a square matrix.
 
 Code:-"""
-
+"""Solution:-"""
 num_rows, num_cols = map(int, input().split())
 matrix = []
 for i in range(num_rows):
