@@ -1,4 +1,5 @@
-"""Sum of numbers with a set bit
+"""Problem statement:
+Sum of numbers with a set bit
 You are given a function,
 int SumofSetBitNumbers(int n, int set);
 The function accepts two integers ‘n’ and ‘set’ as its argument where ‘n’ is the number of bits and ‘set’ is the number of set bits. Implement the function to find the sum of all numbers possible from ‘n’ bits having the count of ‘set’ bits equal to set.
