@@ -1,4 +1,4 @@
-"""Problem statement
+"""Problem statement:
 In the game of scrabble, in order to avoid over-usage of the same letters in any word. Mario is trying to calculate if a letter appears more than three times in any word and wants to discard such words. In order to assist Mario, write a program to identify the number of times the most repeating letter would appear within any word. If the output number is more than three, Mario shall discard such words and choose another word for the game.
 
 Example 1
@@ -45,7 +45,7 @@ Output 2
 3
 
 Code:-"""
-"""Solution"""
+"""Solution:-"""
 word = input()
 letter_counts = {}
 for letter in word:
